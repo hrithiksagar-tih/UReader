@@ -35,7 +35,7 @@ ureader_images
 └── VisualMRC
 ```
 ## Checkpoint
-The checkponit is available on [Huggingface model hub](https://huggingface.co/Mizukiluke/ureader-v1/tree/main). 
+The checkpoint is available on [Huggingface model hub](https://huggingface.co/Mizukiluke/ureader-v1/tree/main). 
 
 ## Training, Inference and Evaluation
 ### Environment
